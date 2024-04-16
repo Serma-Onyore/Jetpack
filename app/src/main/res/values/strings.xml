@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JetpackCompose1</string>
+    <string name="title_activity_scroll">ScrollActivity</string>
+    <string name="title_activity_top_app">TopAppActivity</string>
+    <string name="title_activity_lazy_column">LazyColumnActivity</string>
+    <string name="title_activity_pass_time">PassTimeActivity</string>
+</resources>
